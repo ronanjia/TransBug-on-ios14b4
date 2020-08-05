@@ -1,0 +1,7 @@
+{
+  "name": "TransErrorOnios14b4",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
